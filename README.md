@@ -30,7 +30,7 @@ The layout uses CSS Grid and Flexbox for the desktop design, with breakpoints th
 Open `index.html` in a browser. An internet connection is used for Google Fonts and remote Unsplash demo images.
 
 ## Figma design
-Paste your Figma share link here: **[Add Figma link]**
+Paste your Figma share link here: https://www.figma.com/design/LECDuVbVwJgdmBd86BYKmf
 
 ## Screenshots
 Add exported screenshots in a `screenshots/` folder:
